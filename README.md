@@ -50,10 +50,6 @@ In docker-compose.yml file:
 
 ### Resources
 
-Project is based on the course:
-https://www.udemy.com/course/java-microservices-cqrs-event-sourcing-with-kafka/
-
-## VERSIONS
 
 ### 1.0.0
 
