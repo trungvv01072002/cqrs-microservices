@@ -7,7 +7,7 @@ services:
     container_name: account-mysql
     image: 'mysql/mysql-server:5.7'
     environment:
-      MYSQL_DATABASE: bankAccount
+      MYSQL_DATABASE: visma_github_comments
       MYSQL_ROOT_USERNAME: root
       MYSQL_ROOT_PASSWORD: root
       MYSQL_ROOT_HOST: '%'
